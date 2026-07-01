@@ -2,11 +2,13 @@
 
 html file: https://github.com/Yuvresh-Gavale/Task-14/blob/main/index.html
 <br>
-js file:  
+js file:  https://github.com/Yuvresh-Gavale/Task-14/blob/main/script.js
 # Clone the repo
-git clone: 
+git clone: https://github.com/Yuvresh-Gavale/Task-14/edit/main/README.md
 <br>
 cd <project-folder>
+
+#Deployed Link
 
 
 # Run the project
